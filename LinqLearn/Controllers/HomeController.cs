@@ -60,7 +60,6 @@ namespace LinqLearn.Controllers
             ctx.UserLoginLogs.InsertOnSubmit(ull);
             ctx.SubmitChanges();
         }
-
         private void Update() {
             //更新数据
             var query1 = (from q in ctx.UserLoginLogs
