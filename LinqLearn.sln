@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLearn", "LinqLearn\LinqLearn.csproj", "{59420FE6-9F39-4169-9FEA-FE73594AFF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59420FE6-9F39-4169-9FEA-FE73594AFF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59420FE6-9F39-4169-9FEA-FE73594AFF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59420FE6-9F39-4169-9FEA-FE73594AFF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59420FE6-9F39-4169-9FEA-FE73594AFF60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2985A2C3-07DB-40DE-879A-DFCD7FE5BF3C}
+	EndGlobalSection
+EndGlobal
