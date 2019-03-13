@@ -137,6 +137,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="DataBase\Bal.cs" />
+    <Compile Include="DataBase\Dispass.cs" />
     <Compile Include="DataBase\MyDB.cs" />
     <Compile Include="DataBase\Test111.cs" />
     <Compile Include="Global.asax.cs">
