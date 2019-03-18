@@ -14,6 +14,11 @@ namespace LinqLearn.Controllers
 
         public ActionResult Index()
         {
+            //(x, y) => x == y
+            Func<int, int, int> dd = Dispass.addtion;
+            var testDD = dd(10, 8);
+
+            ViewData["FuncTest"] = testDD;
             ViewData["TableTest"] =Select();
             Insert();
             Update();
